@@ -7,4 +7,4 @@ https://discord.doughmination.win
 
 It’s a simple static site meant to clearly communicate the move and avoid confusion from old links or bookmarks.
 
-If you like my work, feel free to ⭐ star this repo and follow my GitHub 🙂
+If you like my work, feel free to ⭐ star this repo and follow my <a href="https://github.com/ariarees">GitHub</a> 🙂
